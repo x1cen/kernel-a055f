@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Samsung A05 Custom Kernel 6.6 (Theman-Fromfar)
+kernel.string=Samsung A05 Custom Kernel 6.6 (Droidspaces)
 do.devicecheck=0
 do.modules=0
 do.systemless=0

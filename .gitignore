@@ -1,9 +1,11 @@
-
 kernel/out/
+out/
 kernel/prebuilts/
-kernel/prebuilts/ndk-r26/toolchains/llvm/prebuilt/linux-x86_64/
-kernel/out/cache/c9949f92/vendor/mediatek/kernel_modules/connectivity/wlan/core/gen4m/
+prebuilts/
+build/
+external/
 kernel/out/cache/c9949f92/vendor/mediatek/kernel_modules/connectivity/wlan/core/gen4m/
 
 *.zip
+*.tar.gz
 *Zone.Identifier
